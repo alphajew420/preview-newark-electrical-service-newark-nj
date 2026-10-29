@@ -1,0 +1,9 @@
+{
+  "lead_id": 12,
+  "name": "Newark Electrical Service",
+  "industry": "Electrician",
+  "city": "Newark, NJ",
+  "generated_at": "2025-01-01T00:00:00",
+  "generator": "jinja2-template",
+  "bytes": 27175
+}
